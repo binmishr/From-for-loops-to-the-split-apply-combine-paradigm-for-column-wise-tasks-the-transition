@@ -1,0 +1,1 @@
+# From-for-loops-to-the-split-apply-combine-paradigm-for-column-wise-tasks-the-transition-for-a
